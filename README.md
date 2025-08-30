@@ -18,4 +18,5 @@ A simple **Snake Game** built using **HTML, CSS, and JavaScript**.
 - JavaScript (Canvas API)
 
 ## 🌐 Live Demo
-(If you host with GitHub Pages, link will appear here)
+https://amanmaurya-2724.github.io/Snake-_Game/
+
